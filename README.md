@@ -1,6 +1,8 @@
 # Reinforcement-or-Deep-Reinforcement-Learning-Practices-and-Mini-Projects
 ### This repository is dedicated to the exploration and experimentation of reinforcement learning (RL) techniques from scratch. Our primary goal is to demystify complex concepts and build practical applications through hands-on coding and implementation. By delving into the foundational principles and advanced algorithms, we aim to understand the intricacies of reinforcement learning and its promising applications, including its integration with Generative AI (GenAI).
- * Everything will be covered as per Google DeepMind lectures (note) 
+
+ * Everything will be covered as per Massachussets Institute of Technology lectures or MIT OpenCourseWare resources and Google DeepMind lectures avaible over the Internet  (note)
+   
 ### Key Areas of Exploration:
 
 * Foundational Concepts: We will start by implementing Markov Decision Processes (MDPs) to provide a framework for modeling decision-making in RL environments. Alongside this, we will explore the Bellman equation, understanding its significance in establishing the relationship between state values and the overall dynamics of state transitions, rewards, and policies.
