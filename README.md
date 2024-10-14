@@ -11,7 +11,7 @@
 
 * Policy Optimization: Our exploration will include coding the foundational elements of policy gradient methods, allowing us to directly optimize policies. We will implement algorithms like REINFORCE and Proximal Policy Optimization (PPO), gaining insights into their mathematical underpinnings and understanding how they balance exploration and exploitation in high-dimensional action spaces.
 
-* Actor-Critic Approaches: We will investigate actor-critic methods, implementing both the actor and critic components from scratch. By building and exploring algorithms like AC3, we will learn how this hybrid approach enhances learning stability and reduces variance in policy updates.
+* Actor-Critic Approaches: We will investigate actor-critic methods, implementing both the actor and critic components from scratch. By building and exploring algorithms like A3C, we will learn how this hybrid approach enhances learning stability and reduces variance in policy updates.
 
 * Advanced Algorithms: We will extend our implementation efforts to include Deep Deterministic Policy Gradient (DDPG) and other advanced RL algorithms. This will involve understanding their architecture, such as experience replay and target networks, while writing code to effectively navigate continuous action spaces.
 
