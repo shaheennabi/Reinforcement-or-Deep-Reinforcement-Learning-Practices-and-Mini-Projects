@@ -1,5 +1,5 @@
 # Reinforcement-or-Deep-Reinforcement-Learning-Practices-and-Mini-Projects
-### This repository is dedicated to the exploration and experimentation of reinforcement learning (RL) techniques from scratch. Our primary goal is to demystify complex concepts and build practical applications through hands-on coding and implementation. By delving into the foundational principles and advanced algorithms, we aim to understand the intricacies of reinforcement learning and its promising applications, including its integration with Generative AI (GenAI).
+### **This repository is dedicated to the exploration and experimentation of reinforcement learning (RL) techniques from scratch. My primary goal is to demystify complex concepts and build practical applications through hands-on coding and implementation. By delving into the foundational principles and advanced algorithms, we aim to understand the intricacies of reinforcement learning and its promising applications, including its integration with Generative AI (GenAI).**
 
  * Everything will be covered as per Massachussets Institute of Technology lectures or MIT OpenCourseWare resources and Google DeepMind lectures avaible over the Internet  (note)
    
