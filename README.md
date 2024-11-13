@@ -23,4 +23,4 @@
 
 * **MLOps Practices:** To ensure effective deployment and monitoring of our developed models, we will integrate MLOps practices into our mini-projects. This will involve automating training pipelines and focusing on reproducibility, enabling us to establish robust frameworks for real-time monitoring of RL models. 🔧🌠💫
 
-### This repository will be a living resource, continuously updated with new experiments, algorithm implementations, and mini-projects. My hope is that this work not only deepens my understanding of reinforcement learning but also serves as a valuable resource for others interested in the field. 🌟🎇💫🚀
+### This repository will be a living resource, continuously updated with new experiments, algorithm implementations, and mini-projects. My hope is that this work not only deepens my understanding of reinforcement learning but also serves as a valuable resource for others interested in the field. Star 🌟🎇💫🚀
