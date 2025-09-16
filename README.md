@@ -1,5 +1,4 @@
 # Reinforcement-or-Deep-Reinforcement-Learning-Practices-and-Mini-Projects 
 
 
-on it ... soon....
-..
+soon on it.
