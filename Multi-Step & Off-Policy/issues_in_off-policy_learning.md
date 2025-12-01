@@ -1,1 +1,0 @@
-### the original problem of monte carlo and the temporal difference
