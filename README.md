@@ -1,4 +1,4 @@
-# Reinforcement-or-Deep-Reinforcement-Learning-Practices-and-Mini-Projects
+# Reinforcement Learninig: Zero to Hero
 
 This reinforcement learning series is inspired by the Google DeepMind XUCL Reinforcement Learning YouTube series.  
 Everything in this repository is structured according to the content taught by Research Scientist **Hado van Hasselt**, **Diana Borsa**, and Research Engineer **Matteo Hessel**.
