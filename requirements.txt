@@ -1,0 +1,3 @@
+numpy
+gymnasium
+opencv-python
