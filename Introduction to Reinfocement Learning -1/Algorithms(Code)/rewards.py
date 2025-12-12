@@ -20,7 +20,7 @@ wall_states = {(2, 3), (2, 4), (3, 3), (3, 4)}
 ## - action or next_state:   direction or coordinate (not important here)
 ## - next_state:             resulting coordinate after applying the action
 
-def reward(current_state, action, next_state):
+def reward(current_state, next_state):
     
     # Reward for reaching goal
     if next_state == goal_state:
